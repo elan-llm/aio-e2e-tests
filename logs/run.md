@@ -1295,3 +1295,4 @@
 - Sat May 30 02:08:08 UTC 2026 Node 22.x failure
 - Sun May 31 02:34:04 UTC 2026 Node 22.x failure
 - Mon Jun  1 02:43:23 UTC 2026 Node 22.x failure
+- Tue Jun  2 02:41:25 UTC 2026 Node 20.x failure
